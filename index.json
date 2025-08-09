@@ -1,0 +1,212 @@
+{
+  "brands": {
+    "Xiaomi": {
+      "models": {
+        "Redmi Note 10": {
+          "issues": [
+            "IMEI",
+            "Charging Issue"
+          ]
+        },
+        "Mi 11": {
+          "issues": [
+            "FRP",
+            "Screen Damage"
+          ]
+        },
+        "Poco X3": {
+          "issues": [
+            "Placeholder"
+          ]
+        }
+      }
+    },
+    "Samsung": {
+      "models": {
+        "Galaxy S21": {
+          "issues": [
+            "IMEI",
+            "Screen Damage"
+          ]
+        },
+        "Galaxy A71": {
+          "issues": [
+            "Placeholder"
+          ]
+        }
+      }
+    },
+    "Apple": {
+      "models": {
+        "iPhone 12": {
+          "issues": [
+            "Screen Damage"
+          ]
+        },
+        "iPhone 11": {
+          "issues": [
+            "Battery Issue"
+          ]
+        }
+      }
+    },
+    "Realme": {
+      "models": {
+        "Realme 6": {
+          "issues": [
+            "Tiritirish"
+          ]
+        }
+      }
+    },
+    "Huawei": {
+      "models": {
+        "P30": {
+          "issues": [
+            "FRP"
+          ]
+        }
+      }
+    },
+    "OnePlus": {
+      "models": {
+        "8T": {
+          "issues": [
+            "Screen Damage"
+          ]
+        }
+      }
+    },
+    "Tecno-infinix": {
+      "models": {
+        "Hot 9": {
+          "issues": [
+            "Charging Issue"
+          ]
+        }
+      }
+    },
+    "Nokia": {
+      "models": {
+        "Nokia 6.1": {
+          "issues": [
+            "Charging Issue"
+          ]
+        }
+      }
+    },
+    "Vivo": {
+      "models": {
+        "Y20": {
+          "issues": [
+            "Screen Damage"
+          ]
+        }
+      }
+    },
+    "Oppo": {
+      "models": {
+        "A54": {
+          "issues": [
+            "Charging Issue"
+          ]
+        }
+      }
+    },
+    "BrandExtra1": {
+      "models": {
+        "Model1": {
+          "issues": [
+            "Example Issue"
+          ]
+        },
+        "Model2": {
+          "issues": [
+            "Example Issue"
+          ]
+        },
+        "Model3": {
+          "issues": [
+            "Example Issue"
+          ]
+        }
+      }
+    },
+    "BrandExtra2": {
+      "models": {
+        "Model1": {
+          "issues": [
+            "Example Issue"
+          ]
+        },
+        "Model2": {
+          "issues": [
+            "Example Issue"
+          ]
+        },
+        "Model3": {
+          "issues": [
+            "Example Issue"
+          ]
+        }
+      }
+    },
+    "BrandExtra3": {
+      "models": {
+        "Model1": {
+          "issues": [
+            "Example Issue"
+          ]
+        },
+        "Model2": {
+          "issues": [
+            "Example Issue"
+          ]
+        },
+        "Model3": {
+          "issues": [
+            "Example Issue"
+          ]
+        }
+      }
+    },
+    "BrandExtra4": {
+      "models": {
+        "Model1": {
+          "issues": [
+            "Example Issue"
+          ]
+        },
+        "Model2": {
+          "issues": [
+            "Example Issue"
+          ]
+        },
+        "Model3": {
+          "issues": [
+            "Example Issue"
+          ]
+        }
+      }
+    },
+    "BrandExtra5": {
+      "models": {
+        "Model1": {
+          "issues": [
+            "Example Issue"
+          ]
+        },
+        "Model2": {
+          "issues": [
+            "Example Issue"
+          ]
+        },
+        "Model3": {
+          "issues": [
+            "Example Issue"
+          ]
+        }
+      }
+    }
+  }
+}
