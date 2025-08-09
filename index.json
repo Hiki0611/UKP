@@ -46,7 +46,11 @@
       }
     },
     "Huawei": {
-      "models": {}
+      "models": {
+        "s71": {
+          "issues": []
+        }
+      }
     },
     "OnePlus": {
       "models": {
