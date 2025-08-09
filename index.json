@@ -46,13 +46,7 @@
       }
     },
     "Huawei": {
-      "models": {
-        "P30": {
-          "issues": [
-            "FRP"
-          ]
-        }
-      }
+      "models": {}
     },
     "OnePlus": {
       "models": {
