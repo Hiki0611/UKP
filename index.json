@@ -37,13 +37,7 @@
       }
     },
     "Apple": {
-      "models": {
-        "iPhone 12": {
-          "issues": [
-            "Screen Damage"
-          ]
-        }
-      }
+      "models": {}
     },
     "Realme": {
       "models": {
