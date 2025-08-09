@@ -22,14 +22,7 @@
       }
     },
     "Samsung": {
-      "models": {
-        "Galaxy S21": {
-          "issues": [
-            "IMEI",
-            "Screen Damage"
-          ]
-        }
-      }
+      "models": {}
     },
     "Apple": {
       "models": {
