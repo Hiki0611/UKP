@@ -90,8 +90,12 @@
     "zxc": {
       "models": {
         "zxcxzc": {
-          "issues": [],
-          "instructions": {}
+          "issues": [
+            "zxczxczxczxc"
+          ],
+          "instructions": {
+            "zxczxczxczxc": ""
+          }
         }
       }
     }
