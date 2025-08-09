@@ -67,13 +67,7 @@
       }
     },
     "Nokia": {
-      "models": {
-        "Nokia 6.1": {
-          "issues": [
-            "Charging Issue"
-          ]
-        }
-      }
+      "models": {}
     },
     "Vivo": {
       "models": {
