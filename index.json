@@ -67,7 +67,9 @@
           ]
         },
         "y 71": {
-          "issues": []
+          "issues": [
+            "frp error"
+          ]
         }
       }
     },
