@@ -44,13 +44,7 @@
       }
     },
     "Realme": {
-      "models": {
-        "Realme 6": {
-          "issues": [
-            "Tiritirish"
-          ]
-        }
-      }
+      "models": {}
     },
     "Huawei": {
       "models": {}
