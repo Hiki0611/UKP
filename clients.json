@@ -1,14 +1,17 @@
 [
-    {
-        "username": "client",
-        "password": "1111",
-        "role": "client",
-        "name": "Обычный Клиент"
-    },
-    {
-        "username": "test",
-        "password": "2222",
-        "role": "client",
-        "name": "Тестовый Клиент"
-    }
+  {
+    "username": "client",
+    "password": "1111",
+    "name": "Обычный Клиент"
+  },
+  {
+    "username": "client2",
+    "password": "2222",
+    "name": "Клиент 2"
+  },
+  {
+    "username": "client3",
+    "password": "3333",
+    "name": "Клиент 3"
+  }
 ]
