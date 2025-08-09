@@ -3,7 +3,9 @@
     "Xiaomi": {
       "models": {
         "mi 13 lite": {
-          "issues": []
+          "issues": [
+            "frp"
+          ]
         }
       }
     },
