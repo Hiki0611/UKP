@@ -38,11 +38,6 @@
     },
     "Apple": {
       "models": {
-        "iPhone 12": {
-          "issues": [
-            "Screen Damage"
-          ]
-        },
         "iPhone 11": {
           "issues": []
         }
