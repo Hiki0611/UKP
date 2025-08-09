@@ -80,13 +80,7 @@
       }
     },
     "Oppo": {
-      "models": {
-        "A54": {
-          "issues": [
-            "Charging Issue"
-          ]
-        }
-      }
+      "models": {}
     }
   }
 }
