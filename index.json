@@ -113,25 +113,6 @@
         }
       }
     },
-    "BrandExtra3": {
-      "models": {
-        "Model1": {
-          "issues": [
-            "Example Issue"
-          ]
-        },
-        "Model2": {
-          "issues": [
-            "Example Issue"
-          ]
-        },
-        "Model3": {
-          "issues": [
-            "Example Issue"
-          ]
-        }
-      }
-    },
     "BrandExtra4": {
       "models": {
         "Model1": {
