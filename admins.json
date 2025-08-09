@@ -1,6 +1,14 @@
-{
-  "admin": {
-    "password": "admin123",
-    "name": "Administrator"
-  }
-}
+[
+    {
+        "username": "admin",
+        "password": "1234",
+        "role": "admin",
+        "name": "Главный Админ"
+    },
+    {
+        "username": "superuser",
+        "password": "qwerty",
+        "role": "admin",
+        "name": "Старший Админ"
+    }
+]
