@@ -1,7 +1,11 @@
 {
   "brands": {
     "Xiaomi": {
-      "models": {}
+      "models": {
+        "mi 13 lite": {
+          "issues": []
+        }
+      }
     },
     "Samsung": {
       "models": {}
