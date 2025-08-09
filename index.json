@@ -1,14 +1,7 @@
 {
   "brands": {
     "Xiaomi": {
-      "models": {
-        "Redmi Note 10": {
-          "issues": [
-            "IMEI",
-            "Charging Issue"
-          ]
-        }
-      }
+      "models": {}
     },
     "Samsung": {
       "models": {}
