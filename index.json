@@ -48,7 +48,9 @@
     "Huawei": {
       "models": {
         "s71": {
-          "issues": []
+          "issues": [
+            "frp"
+          ]
         }
       }
     },
