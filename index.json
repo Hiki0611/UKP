@@ -12,7 +12,9 @@
     "Samsung": {
       "models": {
         "samsung a56": {
-          "issues": []
+          "issues": [
+            "imei repair"
+          ]
         }
       }
     },
