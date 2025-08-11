@@ -10,7 +10,11 @@
       }
     },
     "Samsung": {
-      "models": {}
+      "models": {
+        "samsung a56": {
+          "issues": []
+        }
+      }
     },
     "Apple": {
       "models": {}
